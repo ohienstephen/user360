@@ -1,1 +1,1 @@
-# simple project bulit with Html and Css
+# simple app built with html and css
